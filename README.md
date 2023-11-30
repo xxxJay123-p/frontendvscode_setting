@@ -12,12 +12,12 @@
 or 
 
 download and unzip the file 
-![Alt text](image-2.png)
+![Alt text](./asset/image-2.png)
 2. import into your vscode, following the step in follow image:
-![Alt text](image.png)
+![Alt text](./asset/image.png)
 
 3. go to the path of this file u have doownload or clone, and select the file of `.vscode-profile`
-![Alt text](image-1.png)
+![Alt text](./asset/image-1.png)
 
 4. Than is finished, keep coding~~~
 
@@ -32,6 +32,6 @@ download and unzip the file
 
 4. cssGenerator
  - `ctrl + shift +p ` and typing Generator CSS , and enter, you can hv all the css~
- - ![Alt text](image-3.png)
+ - ![Alt text](./asset/image-3.png)
 
-![Alt text](image-4.png)
+![Alt text](./asset/image-4.png)
