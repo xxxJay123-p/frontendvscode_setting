@@ -16,14 +16,14 @@ download and unzip the file
 ![Alt text](./asset/image-2.png)
 
 **[Import]** check the version of vscode and upgrade to 1.8
-Help>>About
+- Help>>About
 ![Alt text](./asset/about.png)
 ![Alt text](./asset/version.png)
 if your vscode vscode ver is below 1.8,
 plz do follow step:
-Help>> Check for Update
+- Help>> Check for Update
 ![Alt text](./asset/step1.png)
-Help>> Restart to Update
+- Help>> Restart to Update
 ![Alt text](./asset/step2.png)
 
 2. import into your vscode, following the step in follow image:
