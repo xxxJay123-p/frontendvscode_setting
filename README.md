@@ -19,7 +19,8 @@ download and unzip the file
 - Help>>About
 ![Alt text](./asset/about.png)
 ![Alt text](./asset/version.png)
-if your vscode vscode ver is below 1.8,
+
+- if your vscode vscode ver is below 1.8,
 plz do follow step:
 - Help>> Check for Update
 ![Alt text](./asset/step1.png)
